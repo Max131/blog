@@ -24,7 +24,7 @@ email: me&#64;mabreumx.com
 author: Mario Abreu
 navbar-links:
   Acerca de: "about"
-avatar: "/assets/img/user.png"
+avatar: "/assets/user.png"
 round-avatar: true
 social-network-links:
   email: "info&#64;thinkonline.xyz"

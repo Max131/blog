@@ -24,10 +24,10 @@ email: me&#64;mabreumx.com
 author: Mario Abreu
 navbar-links:
   Acerca de: "about"
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/user.png"
 round-avatar: true
 social-network-links:
-  email: "someone@example.com"
+  email: "info&#64;thinkonline.xyz"
   github: Max131
   twitter: maxito_abreu
   rss: true

@@ -28,6 +28,9 @@ url: "https://max131.github.io" # the base hostname & protocol for your site, e.
 twitter_username: maxito_abreu
 github_username:  Max131
 
+blog_theme: light # Or use dark
+name: Chalk
+paginate: 25
 # Build settings
 #theme: minima
 #remote_theme:  daattali/beautiful-jekyll

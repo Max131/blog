@@ -24,7 +24,6 @@ email: me&#64;mabreumx.com
 author: Mario Abreu
 navbar-links:
   Acerca de: "about"
-show-avatar: true
 avatar: "/assets/img/user.png"
 round-avatar: true
 social-network-links:
@@ -34,8 +33,6 @@ social-network-links:
   rss: true
 link-tags: true
 excerpt_length: 50
-permalink: /:year-:month-:day-:title/
-paginate: 5
 #End
 description: >- # this means to ignore newlines until "baseurl:"
   Blog personal con tips y recordatorios acerca de diversas cuestiones
@@ -71,3 +68,43 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      # comments: true  # add comments to all blog posts
+      # social-share: true # add social media sharing buttons to all blog posts
+      readtime: false # add estimated reading time on all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/      
+
+timezone: "America/Mexico_City"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+title-separator: "-"
+
+# Ruby Date Format to show dates of posts
+date_format: "%d %B, %Y"  

@@ -29,11 +29,11 @@ twitter_username: maxito_abreu
 github_username:  Max131
 
 # Build settings
-theme: minima
-remote_theme: poole/hyde
+#theme: minima
+remote_theme:  daattali/beautiful-jekyll 
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

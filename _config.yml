@@ -20,6 +20,22 @@
 
 title: M13 tips & tricks.
 email: me&#64;mabreumx.com
+#Start
+author: Mario Abreu
+navbar-links:
+  Acerca de: "about"
+avatar: "/assets/img/avatar-icon.png"
+round-avatar: true
+social-network-links:
+  email: "someone@example.com"
+  github: Max131
+  twitter: maxito_abreu
+  rss: true
+link-tags: true
+excerpt_length: 50
+permalink: /:year-:month-:day-:title/
+paginate: 5
+#End
 description: >- # this means to ignore newlines until "baseurl:"
   Blog personal con tips y recordatorios acerca de diversas cuestiones
   relacionadas a la computación y tecnología digital. 
@@ -33,6 +49,8 @@ remote_theme:  daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

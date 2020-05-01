@@ -30,6 +30,7 @@ github_username:  Max131
 
 # Build settings
 theme: minima
+remote_theme: poole/hyde
 plugins:
   - jekyll-feed
 

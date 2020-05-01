@@ -24,6 +24,7 @@ email: me&#64;mabreumx.com
 author: Mario Abreu
 navbar-links:
   Acerca de: "about"
+show-avatar: true
 avatar: "/assets/img/user.png"
 round-avatar: true
 social-network-links:

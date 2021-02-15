@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ionicons and usage
+title: Ionicons y su uso
 categories: [css, webdev, iconos]
 ---
 <link href="https://unpkg.com/ionicons@4.5.8/dist/css/ionicons.min.css" rel="stylesheet">

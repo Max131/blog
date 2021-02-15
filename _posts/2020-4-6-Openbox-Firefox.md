@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Openbox & Firefox windows
+categories : [firefox, openbox]
 ---
 
-# How to get window buttons in Firefox with Openbox
+# Cómo mostrar los botones de ventana de Firefox en Openbox
 
 
 
-To get the window buttons in Firefox without title bar in Openbox just add the next line in:
+Para mostrar los botones de Firefox sin la  barra de título en Openbox, sólo hay que agregar la siguiente línea de código en el archivo indicado:
 
 _.config/openbox/environment_
 

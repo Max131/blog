@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Agregar texto a imagenes con convert 
+categories: [convert, imagemagick, imagenes]
 ---
 Para agregar texto a imagenes con convert se puede usar el siguiente comando
 

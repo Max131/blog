@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Ionicons and usage
+categories: [css, webdev, iconos]
 ---
 <link href="https://unpkg.com/ionicons@4.5.8/dist/css/ionicons.min.css" rel="stylesheet">
 <style>
 .ionicon{font-size: 1.5rem;}
 </style>
-# Ionicons and how to use it
+# Ionicons y cómo usarlos
 
-Use the [Ionicons](https://ionicons.com/) is easy, just add in the head:
+Usar los [Ionicons](https://ionicons.com/) es sencillo, sólo agregar esto en el head:
 ```html
 <link href="https://unpkg.com/ionicons@4.5.8/dist/css/ionicons.min.css" rel="stylesheet">
 ```
@@ -17,5 +18,5 @@ And then use it:
 <i class="ion-ios-bug"></i>
 <i class="ion-md-heart"></i>
 ```
-Where "ios" is for ios icons and "md" for material icons. 
+Donde "ios" es para iconos tipo iOS y "md" para iconos Material Design. 
 <i class="ionicon ion-ios-bug"></i><i class="ionicon  ion-md-heart"></i>

@@ -1,5 +1,5 @@
 ---
 layout: home
 title: Tips & Tricks
-subtitle: A little remainders about tech things.
+subtitle: Recordatorios sobre cosas de Linux & Webdev.
 ---

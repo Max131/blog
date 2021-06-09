@@ -2,6 +2,7 @@
 layout: post
 title: Agregar texto a imagenes con convert 
 categories: [convert, imagemagick, imagenes]
+tags: [convert, imagemagick, imagenes]
 ---
 
 Para cambiar de formato varias imágenes con `convert` de ImageMagick se puede usar el siguiente script: 
@@ -14,5 +15,4 @@ for PHOTO in *.jpg
    done
 
 ```
-
 

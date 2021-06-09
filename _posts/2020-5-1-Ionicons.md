@@ -2,8 +2,10 @@
 layout: post
 title: Ionicons y su uso
 categories: [css, webdev, iconos]
+tags: [css, webdev, iconos]
 ---
 <link href="https://unpkg.com/ionicons@4.5.8/dist/css/ionicons.min.css" rel="stylesheet">
+
 <style>
 .ionicon{font-size: 1.5rem;}
 </style>

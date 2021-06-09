@@ -2,6 +2,7 @@
 layout: post
 title: Agregar nuevo repo en consola
 categories: [git]
+tags: [git]
 ---
 
 # Cómo agregar un nuevo repositorio en la consola después de haberlo creado en Github

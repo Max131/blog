@@ -2,6 +2,7 @@
 layout: post
 title: Optimizar imágenes jpg para la web
 categories: [imagenes, optimizar]
+tags: [imagenes, optimizar]
 ---
 
 # Cómo optimizar imágenes `jpg`

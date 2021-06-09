@@ -2,6 +2,7 @@
 layout: post
 title: Cómo redimiensionar y cortar imágenes con Imagemagick
 categories: [imagenes, optimizar, cortar, redimiensionar, imagemagick]
+tags: [imagenes, optimizar, cortar, redimiensionar, imagemagick]
 ---
 ## Cómo redimiensionar y cortar imágenes con diferentes medidas  con Imagemagick
 

@@ -2,6 +2,7 @@
 layout: post
 title: Openbox & Firefox windows
 categories : [firefox, openbox]
+tags: [firefox, openbox]
 ---
 
 # Cómo mostrar los botones de ventana de Firefox en Openbox

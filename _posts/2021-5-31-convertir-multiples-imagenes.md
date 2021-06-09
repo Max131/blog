@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agregar texto a imagenes con convert 
+title: Convertir multiples imágenes
 categories: [convert, imagemagick, imagenes]
 tags: [convert, imagemagick, imagenes]
 ---

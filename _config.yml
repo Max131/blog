@@ -42,23 +42,23 @@ url: "https://max131.github.io" # the base hostname & protocol for your site, e.
 twitter_username: maxito_abreu
 github_username:  Max131
 # Build settings
-theme: jekyll-whiteglass
+theme: minima
 # remote_theme:  daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-archives
+    #  - jekyll-archives
 
-jekyll-archives:
-  enable:
-    - categories
-    - tags
-  layout: category_archives
-  permalinks: 
-    category: /categories/:name/
-    tag: /tags/:name/
+    #jekyll-archives:
+    #  enable:
+    #    - categories
+    #    - tags
+    #  layout: category_archives
+    #  permalinks: 
+    #    category: /categories/:name/
+    #    tag: /tags/:name/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
